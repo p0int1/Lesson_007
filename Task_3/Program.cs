@@ -51,6 +51,7 @@ namespace Task_3
             Console.WriteLine("myStruct.change = {0}", myStruct.change);
 
             Console.ReadKey();
+
         }
     }
 }
